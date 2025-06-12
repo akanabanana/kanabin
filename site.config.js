@@ -8,12 +8,12 @@ const CONFIG = {
     email: "officialpinayaussie@gmail.com",
     linkedin: "",
     github: "akanabanana",
-    instagram: "akanabanana",
+    twitch: "akanabanana",
   },
   projects: [
     {
-      name: `Kana B's works`,
-      href: "https://github.com/akanabanana/kanabin",
+      name: `FFXIVPF`,
+      href: "https://ffxivpf.com",
     },
   ],
   // blog setting (required)
