@@ -38,13 +38,13 @@ const CONFIG = {
   googleAnalytics: {
     enable: false,
     config: {
-      measurementId: process.env.G-TSEEFN34K3 || "",
+      measurementId: process.env.GA_MEASUREMENT_ID || "TSEEFN34K3",
     },
   },
   googleSearchConsole: {
     enable: false,
     config: {
-      siteVerification: process.env.google-site-verification=eYp8N3cXUDiXpNUkFFSjimiQBok8hnNHOS9Wujstvus || "",
+      siteVerification: process.env.GOOGLE_SITE_VERIFICATION  || "",
     },
   },
   naverSearchAdvisor: {
