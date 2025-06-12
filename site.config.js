@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Kana B",
-    image: "/src/assets/favicon.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/favicon.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "IRL scholar",
     bio: "I just make things.",
     email: "officialpinayaussie@gmail.com",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Works",
-    description: "Kana B's works!",
+    title: "Kana B: Blog",
+    description: "Thoughts on anything!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
